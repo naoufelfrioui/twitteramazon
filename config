@@ -1,9 +1,0 @@
-[default]
-region = us-west-2
-output = json
-
-[profile adminuserr]
-aws_access_key_id = AKIAIC3ZW4HCIUWTLSCQ
-aws_secret_access_key = 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
-region = us-west-2
-
